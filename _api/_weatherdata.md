@@ -1,4 +1,3 @@
-
 ---
 title: /weatherdata
 type: get
